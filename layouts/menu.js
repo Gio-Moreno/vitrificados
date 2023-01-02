@@ -1,0 +1,31 @@
+
+
+document.write('<header class="" style="backdrop-filter: blur(8px);">');
+document.write('    <nav class="navbar navbar-expand-lg" > ' );
+document.write('      <div class="container">');
+document.write('        <img class="navbar-brand my-auto d-none d-lg-inline-block" src="assets/images/vitrificados.png" alt="ladrillera vitrificados boyaca" height="50">');
+document.write('        <a class="navbar-brand my-auto" href="index.html"><h2>Vitrificados <em>Boyacá</em></h2></a>');
+document.write('        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">');
+document.write('          <span class="navbar-toggler-icon"></span>');
+document.write('        </button>');
+document.write('        <div class="collapse navbar-collapse" id="navbarResponsive">');
+document.write('          <ul class="navbar-nav ml-auto">');
+ document.write('           <li class="nav-item">');
+document.write('              <a class="nav-link" href="index.html">Inicio');
+ document.write('               <span class="sr-only">(current)</span>');
+ document.write('             </a>');
+ document.write('           </li> ');
+ document.write('           <li class="nav-item">');
+ document.write('             <a class="nav-link" href="productos.html">Productos</a>');
+ document.write('           </li>');
+ document.write('           <li class="nav-item">');
+ document.write('             <a class="nav-link" href="nosotros.html">Nosotros</a>');
+ document.write('           </li>');
+ document.write('           <li class="nav-item">');
+ document.write('             <a class="nav-link text-warning" href="contacto.html">CONTACTO</a>');
+ document.write('           </li>');
+ document.write('         </ul>');
+ document.write('       </div>');
+ document.write('     </div>');
+ document.write('   </nav>');
+ document.write(' </header>');
