@@ -56,7 +56,7 @@ jQuery( document ).ready(function( $ ) {
                         margin: 20
                     },
                     992: {
-                        items: 4,
+                        items: 2.5,
                         margin: 30
                     }
                 }
