@@ -23,7 +23,7 @@ document.write('           </div>');
 document.write('           <div class="col-md-4">');
 document.write('             <div class="team-member founder shadow">');
 document.write('               <div class="thumb-container p-2">');
-document.write('                 <img class="rounded" src="assets/images/mauricio-gonzalez-vitrificados-boyaca.jpg" alt="">');
+document.write('                 <img class="rounded" src="assets/images/edwin-gonzalez-vitrificados-boyaca.jpg" alt="">');
 document.write('               </div>');
 document.write('               <div class="down-content">');
 document.write('                 <h4 class="">Edwin González</h4>');
