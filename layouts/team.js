@@ -28,7 +28,7 @@ document.write('               </div>');
 document.write('               <div class="down-content">');
 document.write('                 <h4 class="">Edwin González</h4>');
 document.write('                 <span class="">Gerente</span>');
-document.write('                 <a class="btn btn-warning" href="https://tel:573144745514"><i class="fa fa-phone text-success"></i> Contactar</a>');
+document.write('                 <a class="btn btn-warning" href="https://tel:573002345416"><i class="fa fa-phone text-success"></i> Contactar</a>');
 document.write('               </div>');
 document.write('             </div>');
 document.write('           </div>');
